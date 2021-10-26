@@ -2,7 +2,8 @@
 <blockquote>
 <p>Um aplicativo web da NLW together</p>
 </blockquote>
-<a href="https://letmeask-826a9.firebaseapp.com/" target="_blank">Letmeask</a>
+<p>Para visualização, clicar no link abaixo</p>
+<a href="https://letmeask-826a9.firebaseapp.com/">Letmeask</a>
 <div>
   
 <img src="./src/assets/images/illustration.svg" />
